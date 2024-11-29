@@ -1,0 +1,14 @@
+<svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
+    <!-- Barra superior expandida -->
+    <rect x="0" y="2" width="36" height="6" rx="3" fill="#007BFF" />
+    
+    <!-- Barra do meio expandida -->
+    <rect x="0" y="12" width="36" height="6" rx="3" fill="#28A745" />
+    
+    <!-- Barra inferior expandida -->
+    <rect x="0" y="22" width="36" height="6" rx="3" fill="#FFC107" />
+    
+    <!-- Icone adicional representando menu aberto -->
+    <circle cx="30" cy="6" r="3" fill="#DC3545" />
+    <circle cx="30" cy="18" r="3" fill="#DC3545" />
+</svg>
